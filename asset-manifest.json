@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/wedding-invitation/static/css/main.973ffccc.css",
+    "main.js": "/wedding-invitation/static/js/main.f6611110.js",
+    "static/js/787.ce8a8ee2.chunk.js": "/wedding-invitation/static/js/787.ce8a8ee2.chunk.js",
+    "static/media/Photo3.jpg": "/wedding-invitation/static/media/Photo3.d207f93680ce697b97d5.jpg",
+    "static/media/Photo4.jpg": "/wedding-invitation/static/media/Photo4.792bb1cb0785bd7d07f8.jpg",
+    "static/media/Photo5.jpg": "/wedding-invitation/static/media/Photo5.05a45e91a8ee3a430464.jpg",
+    "static/media/end.jpg": "/wedding-invitation/static/media/end.8bfcf43f39db6a529114.jpg",
+    "static/media/home.jpg": "/wedding-invitation/static/media/home.a9b49eac3ac64a0b3006.jpg",
+    "static/media/Photo2.jpg": "/wedding-invitation/static/media/Photo2.f33765bde52000ab8b68.jpg",
+    "static/media/galmaesgeul.eot": "/wedding-invitation/static/media/galmaesgeul.e8b452768ebac4208f5c.eot",
+    "static/media/galmaesgeul.ttf": "/wedding-invitation/static/media/galmaesgeul.0fba9203cb93c92f72d9.ttf",
+    "static/media/galmaesgeul.woff": "/wedding-invitation/static/media/galmaesgeul.5221ab76cee785010b6c.woff",
+    "static/media/Photo7.jpg": "/wedding-invitation/static/media/Photo7.3b0da642b32985224b58.jpg",
+    "static/media/galmaesgeul.woff2": "/wedding-invitation/static/media/galmaesgeul.7dbdb2ecf88b5ae8a5c9.woff2",
+    "static/media/Photo8.jpg": "/wedding-invitation/static/media/Photo8.9aae4c63021b92600290.jpg",
+    "static/media/Photo1.jpg": "/wedding-invitation/static/media/Photo1.218220d9288576a0549c.jpg",
+    "static/media/Photo6.jpg": "/wedding-invitation/static/media/Photo6.c3635b12747ca0db0329.jpg",
+    "index.html": "/wedding-invitation/index.html",
+    "main.973ffccc.css.map": "/wedding-invitation/static/css/main.973ffccc.css.map",
+    "main.f6611110.js.map": "/wedding-invitation/static/js/main.f6611110.js.map",
+    "787.ce8a8ee2.chunk.js.map": "/wedding-invitation/static/js/787.ce8a8ee2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.973ffccc.css",
+    "static/js/main.f6611110.js"
+  ]
+}
